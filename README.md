@@ -4,4 +4,4 @@
 * Uses RxJava2 and Retrofit to handle the remote connections
 * Uses Room, LiveData, and Lifecycle to handle the local database
 * Injects the Repository with two data sources which handle their respective parts
-* TODO - Implement the logic a bit better
+* TODO - Implement the repo logic a bit better
